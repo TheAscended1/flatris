@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'serviceconnection1'
   
   # Web app name
-  webAppName: 'YourLinuxApp'
+  webAppName: 'flatristest1111'
   
   # Resource group
   resourceGroupName: 'ArekResourceGroup1'
